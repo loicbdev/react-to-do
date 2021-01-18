@@ -2,13 +2,18 @@
   background: #209cee;
   width: 100%;
   height: auto;
-  padding: 2rem;
+  padding: 1rem;
+}
+
+.title {
+  font-size: small;
 }
 
 .todo-list {
   background: #e8e8e8;
   border-radius: 4px;
-  max-width: 400px;
+  max-width: 95%;
+  margin: 2rem;
   padding: 5px;
 }
 
@@ -22,4 +27,8 @@
   justify-content: space-between;
   margin-bottom: 6px;
   padding: 3px 10px;
+}
+
+button {
+  margin: 0.25rem;
 }
