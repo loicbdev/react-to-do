@@ -4,5 +4,4 @@ In this tutorial, you will create a to-do application. Your application will nee
 
 This type of project is often accomplished with Class components, but this application will instead integrate React Hooks. React Hooks allow for functional components to have a state and use lifecycle methods, allowing you to avoid using Class components and have more modular and readable code.
 
-
 ### https://to-do-tuto.netlify.app/
